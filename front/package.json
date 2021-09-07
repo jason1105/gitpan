@@ -1,0 +1,16 @@
+{
+  "name": "needy-application-modify-rljc2",
+  "productName": "needy-application-modify-rljc2",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "lv-wei",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "13.1.7"
+  }
+}

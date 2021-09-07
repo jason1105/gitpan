@@ -1,0 +1,9 @@
+**/node_modules
+**/out
+**/*.swp
+**/target/
+**/*.rs.bk
+**/.DS_Store
+**/*.pdb
+**/.idea
+**/.vscode
